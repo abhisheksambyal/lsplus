@@ -24,24 +24,25 @@ The code is based on Tensorflow and requires a few further dependencies, listed 
 * ```conda env create -f tf1.yml```
 
 ### Directory Structure
+```
 ├── ls_plus_work/
-│__ ├── 01_retention_curves.ipynb
-│__ ├── 02_all_histogram_plots/
-│__ ├── 02_histogram_viz.ipynb
-│__ ├── baselines.yml
-│__ ├── chaoyang-data/
-│__ ├── d1_ablation/
-│__ ├── d1_chaoyang_code/
-│__ ├── d2_ablation/
-│__ ├── d2_mhist_code/
-│__ ├── d3_skin_code/
-│__ ├── distiller.yml
-│__ ├── ISIC_2018/
-│__ ├── MHIST/
-│__ ├── r34_retention_curves.png
-│__ ├── r50_retention_curves.png
-│__ └── README.md
-
+    ├── 01_retention_curves.ipynb
+    ├── 02_all_histogram_plots/
+    ├── 02_histogram_viz.ipynb
+    ├── baselines.yml
+    ├── chaoyang-data/
+    ├── d1_ablation/
+    ├── d1_chaoyang_code/
+    ├── d2_ablation/
+    ├── d2_mhist_code/
+    ├── d3_skin_code/
+    ├── distiller.yml
+    ├── ISIC_2018/
+    ├── MHIST/
+    ├── r34_retention_curves.png
+    ├── r50_retention_curves.png
+    └── README.md
+```
 ### Datasets
 
 Datasets can be downloaded from here:
