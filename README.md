@@ -25,7 +25,7 @@ The code is based on Tensorflow and requires a few further dependencies, listed 
 
 ### Directory Structure
 ```
-├── ls_plus_work/
+├── ls_plus/
     ├── 01_retention_curves.ipynb
     ├── 02_all_histogram_plots/
     ├── 02_histogram_viz.ipynb
